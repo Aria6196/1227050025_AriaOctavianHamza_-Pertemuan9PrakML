@@ -1,7 +1,3 @@
-Berikut penjelasan lengkap per bagian dari kode Python Anda yang digunakan untuk **sentiment analysis** menggunakan **SVM (Support Vector Machine)**:
-
----
-
 ### **Bagian 1: Load Data**
 
 ```python
