@@ -124,5 +124,3 @@ Output:
 Kalimat: I really love this product! It's amazing. => Sentimen: pos
 Kalimat: This is the worst service I’ve ever experienced. => Sentimen: neg
 ```
-
-gin saya bantu membuat versi web-based dari sistem ini menggunakan Flask atau Streamlit?
